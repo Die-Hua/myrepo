@@ -1,2 +1,3 @@
 # myrepo
-new project, github first 
+new project, github first
+This is a line from RStudio
